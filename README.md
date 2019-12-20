@@ -87,3 +87,9 @@ You will be asked to enter your github username and password and BAM! you will h
         git log
         
 Once you have created your git repo and added hello.cpp and updated your git repo (your repo should have two commits), you are done! 
+## Optional downloads
+To save some time in the second half of the course, if you have decided on what track you want to do for the second half of the course please download the environment needed.
+### Anaconda Python distribution
+[Anaconda IDE](https://www.anaconda.com/distribution/). I recommend using Spyder, but feel free to try the jupyter notebook. You can optionally download kite when you launch Spyder.
+### Unreal Engine
+You can dowload the Unreal Engine [here](https://www.unrealengine.com/). You will need to create an Epic Games store account to use the Unreal Engine and about 30 GB of storage space.
