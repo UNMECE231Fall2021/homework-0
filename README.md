@@ -1,5 +1,5 @@
 # Homework0
-Homework 0 of ECE 231: Intermediate Programming. Assigned 1/15/2020. Due 1/22/2020, 11:59 pm.
+Homework 0 of ECE 231: Intermediate Programming. Assigned 1/17/2020. Due 1/24/2020, 11:59 pm.
 The goal for this homework is the get acquainted with the software that you are going to be using for the rest of the semester. By the end of this assignment you will achieve two things:
 
     Get a Linux system working
