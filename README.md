@@ -1,5 +1,5 @@
 # Homework0
-Homework 0 of ECE 231: Intermediate Programming. Assigned 1/24/2020. Due 1/31/2020, 11:59 pm.
+Homework 0 of ECE 231: Intermediate Programming. Assigned 8/21/2020. Due 8/29/2020, 11:59 pm.
 The goal for this homework is the get acquainted with the software that you are going to be using for the rest of the semester. By the end of this assignment you will achieve two things:
 
     Get a Linux system working
@@ -25,8 +25,7 @@ You either can download Virtual Box from the section above or download Xcode to 
 ### Windows
 You either can dowload Virtual Box from the section above or activate and use the Linux system for Windows 10. You can follow the tutorial [here](https://www.maketecheasier.com/install-linux-subsystem-for-windows10/)
 
-## Updating and downloading packages for your terminal
-(If you have MacOS skip this step)
+## Updating and downloading packages for your terminal (if you have MacOS skip this step)
 Once you have set up your Linux (not MacOS) system and have your terminal up and running type the following commands:
 
         sudo apt-get update -y
@@ -52,11 +51,11 @@ Once you have created your git repo in github, open a terminal and type:
 
 Where \<github username\> is your github username and \<git repo name\> is the name of the git repo that you have just created. After this is done, type:
 
-        vim hello.cpp
+        vim hello.c
         
 Write a simple hello world program and add it to your git with this command:
 
-        git add hello.cpp
+        git add hello.c
         
 (optional) you may type
 
@@ -76,7 +75,7 @@ Notice how I also added .gitignore, that is because .gitignore will not ignore i
 
 Now that you have added a program to your git and added it, you need to write a commit that documents what you have done. Here is an example:
 
-        git commit -m "Added a program called hello.cpp that prints Hello world!"
+        git commit -m "Added a program called hello.c that prints Hello world!"
         
 The only that should vary between git commits is what is between the double quotes. Please make your git commits meaningful. Not only will I be taking a look at your git commits, but fellow students as well (AND POTENTIALLY RECRUITERS). Lastly, type this command to upload changes to your git repo:
 
@@ -87,9 +86,3 @@ You will be asked to enter your github username and password and BAM! you will h
         git log
         
 Once you have created your git repo and added hello.cpp and updated your git repo (your repo should have two commits), you are done! 
-## Optional downloads
-To save some time in the second half of the course, if you have decided on what track you want to do for the second half of the course please download the environment needed.
-### Anaconda Python distribution
-[Anaconda IDE](https://www.anaconda.com/distribution/). I recommend using Spyder, but feel free to try the jupyter notebook. You can optionally download kite when you launch Spyder.
-### Unreal Engine
-You can dowload the Unreal Engine [here](https://www.unrealengine.com/). You will need to create an Epic Games store account to use the Unreal Engine and about 30 GB of storage space.
